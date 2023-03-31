@@ -1,5 +1,17 @@
 ### Hi there 👋
 
+🌱 I’m currently learning Java, Spring, Git
+
+- Java
+- Kotlin
+- Spring Boot
+- Docker
+- Kubernetes
+
+🌱 My Blog
+
+https://iizz.tistory.com/
+
 <!--
 **spacedustz/spacedustz** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
@@ -14,3 +26,5 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+![spacedustz's GitHub stats](https://github-readme-stats.vercel.app/api?username=spacedustz&show_icons=true&theme=merko)
