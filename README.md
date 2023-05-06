@@ -1,10 +1,18 @@
 ### Hi there 👋
 
-🌱 I’m currently learning Java, Spring, Git
+🌱 I’m currently learning Developing
 
+#### Languages
+- Kotlin 
+- Dart
+- TypeScript
 - Java
-- Kotlin
+
+#### FrameWorks
 - Spring Boot
+- Flutter
+
+#### Ops
 - Docker
 - Kubernetes
 
