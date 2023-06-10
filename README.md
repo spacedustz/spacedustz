@@ -2,7 +2,7 @@
 
 ### 👋 Hi there 👋
 
-I’m currently learning Developing
+I am currently working as a backend developer and continuously growing.
 
 My Blog 🌱
 
