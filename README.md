@@ -12,12 +12,12 @@ I am currently working as a Platform developer and continuously growing.
 ---
 
 ## 👋 Contact me
-🌱 My Tech Blog 🌱<br>
+🌱 **My Tech Blog** 🌱<br>
 https://iizz.tistory.com
 
 <br>
 
-🌱 My Email 🌱<br>
+🌱 **My Email** 🌱<br>
 cyberspecterr@gmail.com
 
 ---
