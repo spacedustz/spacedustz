@@ -1,10 +1,23 @@
 ---
 
-## 👋 Hi there 👋
+## 👋 Hi there
 
 I am currently working as a Platform developer and continuously growing.
 
-<a href="https://iizz.tistory.com/">🌱 My Tech Blog 🌱</a>
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=spacedustz&langs_count=10&layout=compact&theme=radical)](https://github.com/spacedustz/spacedustz) | ![spacedustz's GitHub stats](https://github-readme-stats.vercel.app/api?username=spacedustz&show_icons=true&theme=radical)
+
+
+---
+
+## 👋 Contact me
+🌱 My Tech Blog 🌱<br>
+https://iizz.tistory.com
+
+<br>
+
+🌱 My Email 🌱<br>
+cyberspecterr@gmail.com
 
 ---
 
@@ -64,16 +77,6 @@ I am currently working as a Platform developer and continuously growing.
 </div>
 
 ---
-
-## 🌱 Most Used Languages
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=spacedustz&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
-
----
-
-## 🌱 Git Status
-
-![spacedustz's GitHub stats](https://github-readme-stats.vercel.app/api?username=spacedustz&show_icons=true&theme=tokyonight)
 
 
 <!--
