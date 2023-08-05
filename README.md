@@ -8,13 +8,8 @@ I am currently working as a Platform developer and continuously growing.
 
 
 ## 👋 Contact me
-🌱 **My Tech Blog** 🌱<br>
-https://iizz.tistory.com
-
-<br>
-
-🌱 **My Email** 🌱<br>
-cyberspecterr@gmail.com
+- #### **My Tech Blog** - https://iizz.tistory.com
+- #### **My Email** - cyberspecterr@gmail.com
 
 <br>
 
