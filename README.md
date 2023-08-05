@@ -26,7 +26,7 @@ I am currently working as a Platform developer and continuously growing.
 
 <br>
 
-### <center>Languages</center>
+<div style="text-align: center; font-size:50px"> Languages </div>
 
 <div>
 <img src="https://img.shields.io/badge/Kotlin-7F52FF?style=flat-square&logo=Kotlin&logoColor=white"/> 
