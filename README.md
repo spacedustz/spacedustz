@@ -4,11 +4,11 @@
 
 I am currently working as a Platform developer and continuously growing.
 
-<a href="https://iizz.tistory.com/">My Tech Blog 🌱</a>
+<a href="https://iizz.tistory.com/">🌱 My Tech Blog 🌱</a>
 
 ---
 
-## ⚡ Stacks ⚡
+## 🌱 Stacks
 
 ### Languages
 <div>
@@ -65,7 +65,16 @@ I am currently working as a Platform developer and continuously growing.
 
 ---
 
-## Git Status
+## 🌱 Most Used Languages
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=spacedustz&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+
+---
+
+## 🌱 Git Status
+
+![spacedustz's GitHub stats](https://github-readme-stats.vercel.app/api?username=spacedustz&show_icons=true&theme=tokyonight)
+
 
 <!--
 **spacedustz/spacedustz** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -81,5 +90,3 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-
-![spacedustz's GitHub stats](https://github-readme-stats.vercel.app/api?username=spacedustz&show_icons=true&theme=tokyonight)
