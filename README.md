@@ -1,3 +1,4 @@
+<div align="center">
 ![transparent](https://capsule-render.vercel.app/api?type=transparent&fontColor=a3d278&text=Kunwoo%20Shin's%20GitHub%20&height=150&fontSize=60&desc=Welcome!&descAlignY=75&descAlign=60)
 
 ## 👋 Hi there
@@ -10,26 +11,22 @@ I am currently working as a Platform developer and continuously growing.
 
 ---
 
-<p align="center" style="font-size:22px">
-    <Strong>☁️ Teck Blog ☁️</Strong><br>
+**☁ Tech Blog ☁** <br>
     <a href="https://iizz.tistory.com/" target="_blank"><img src="https://img.shields.io/badge/Tistory-535D6C?style=flat-square&logo=Tistory&logoColor=white"/></a>
     <br>
     <br>
-<Strong>📧 Email 📧</Strong><br>cyberspecterr@gmail.com<br>
+**📧 Email 📧**<br>
+cyberspecterr@gmail.com<br>
 
 </p>
 
 ---
 
-<p align="center" style="font-size:22px">
-    <Strong>⚒️ Tech Stacks ⚒️</Strong><br>
-</p>
+## ⚒ Tech Stacks ⚒
 
 <br>
 
-<p align="center" style="font-size:25px;">
-    <Strong>Frameworks</Strong><br>
-</p>
+### Languages
 
 <div>
 <img src="https://img.shields.io/badge/Kotlin-7F52FF?style=flat-square&logo=Kotlin&logoColor=white"/> 
@@ -47,9 +44,7 @@ I am currently working as a Platform developer and continuously growing.
 
 <br>
 
-<p align="center" style="font-size:25px;">
-    <Strong>Frameworks</Strong><br>
-</p>
+### Frameworks
 
 <div>
 <img src="https://img.shields.io/badge/Spring Boot-6DB33F?style=flat-square&logo=Spring Boot&logoColor=white"/> 
@@ -60,9 +55,7 @@ I am currently working as a Platform developer and continuously growing.
 
 <br><br>
 
-<p align="center" style="font-size:25px;">
-    <Strong>Databases</Strong><br>
-</p>
+### Databases
 
 <div>
 <img src="https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=MySQL&logoColor=white"/> 
@@ -74,9 +67,7 @@ I am currently working as a Platform developer and continuously growing.
 
 <br>
 
-<p align="center" style="font-size:20px">
-    <Strong>Ops</Strong><br>
-</p>
+### Ops
 
 <div>
 <img src="https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=Docker&logoColor=white"/> 
@@ -92,7 +83,7 @@ I am currently working as a Platform developer and continuously growing.
 <img src="https://techstack-generator.vercel.app/aws-icon.svg" alt="icon" width="57" height="57" />
 </div>
 
-
+</div>
 <!--
 **spacedustz/spacedustz** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
