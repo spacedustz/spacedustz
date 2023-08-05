@@ -2,8 +2,6 @@
 
 ## 👋 Hi there 👋
 
-<div style="display: flex; align-items: flex-start;"><img src="https://techstack-generator.vercel.app/github-icon.svg" alt="icon" width="57" height="57" /></div>
-
 I am currently working as a Platform developer and continuously growing.
 
 <a href="https://iizz.tistory.com/">My Tech Blog 🌱</a>
