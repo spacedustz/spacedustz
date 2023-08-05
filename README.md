@@ -12,7 +12,7 @@ I am currently working as a Platform developer and continuously growing.
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=spacedustz&langs_count=10&layout=compact&theme=radical)](https://github.com/spacedustz/spacedustz)
 ![spacedustz's GitHub stats](https://github-readme-stats.vercel.app/api?username=spacedustz&show_icons=true&theme=radical)
 
-<br>
+<br><br>
 
 ## Contact Me
 
@@ -26,7 +26,7 @@ I am currently working as a Platform developer and continuously growing.
 <br>
 cyberspecterr@gmail.com<br>
 
-<br>
+<br><br>
 
 ## ⚒ Tech Stacks ⚒
 
