@@ -1,3 +1,5 @@
+![transparent](https://capsule-render.vercel.app/api?type=transparent&fontColor=a3d278&text=Kunwoo%20Shin's%20GitHub%20&height=150&fontSize=60&desc=Welcome!&descAlignY=75&descAlign=60)
+
 ## 👋 Hi there
 
 I am currently working as a Platform developer and continuously growing.
@@ -6,16 +8,29 @@ I am currently working as a Platform developer and continuously growing.
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=spacedustz&langs_count=10&layout=compact&theme=radical)](https://github.com/spacedustz/spacedustz)
 ![spacedustz's GitHub stats](https://github-readme-stats.vercel.app/api?username=spacedustz&show_icons=true&theme=radical)
 
+---
 
-## 👋 Contact me
-- #### **My Tech Blog** - https://iizz.tistory.com
-- #### **My Email** - cyberspecterr@gmail.com
+<p align="center" style="font-size:22px">
+    <Strong>☁️ Teck Blog ☁️</Strong><br>
+    <a href="https://iizz.tistory.com/" target="_blank"><img src="https://img.shields.io/badge/Tistory-535D6C?style=flat-square&logo=Tistory&logoColor=white"/></a>
+    <br>
+    <br>
+<Strong>📧 Email 📧</Strong><br>cyberspecterr@gmail.com<br>
+
+</p>
+
+---
+
+<p align="center" style="font-size:22px">
+    <Strong>⚒️ Tech Stacks ⚒️</Strong><br>
+</p>
 
 <br>
 
-## 🌱 Stacks
+<p align="center" style="font-size:20px">
+    <Strong>Languages</Strong><br>
+</p>
 
-### Languages
 <div>
 <img src="https://img.shields.io/badge/Kotlin-7F52FF?style=flat-square&logo=Kotlin&logoColor=white"/> 
 <img src="https://img.shields.io/badge/Dart-0175C2?style=flat-square&logo=Dart&logoColor=white"/> 
@@ -32,7 +47,10 @@ I am currently working as a Platform developer and continuously growing.
 
 <br>
 
-### FrameWorks
+<p align="center" style="font-size:20px">
+    <Strong>Frameworks</Strong><br>
+</p>
+
 <div>
 <img src="https://img.shields.io/badge/Spring Boot-6DB33F?style=flat-square&logo=Spring Boot&logoColor=white"/> 
 <img src="https://img.shields.io/badge/Flutter-02569B?style=flat-square&logo=Flutter&logoColor=white"/> 
@@ -42,7 +60,10 @@ I am currently working as a Platform developer and continuously growing.
 
 <br><br>
 
-### Database
+<p align="center" style="font-size:20px">
+    <Strong>Databases</Strong><br>
+</p>
+
 <div>
 <img src="https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=MySQL&logoColor=white"/> 
 <img src="https://img.shields.io/badge/Redis-DC382D?style=flat-square&logo=Redis&logoColor=white"/> 
@@ -53,7 +74,10 @@ I am currently working as a Platform developer and continuously growing.
 
 <br>
 
-### Ops
+<p align="center" style="font-size:20px">
+    <Strong>Ops</Strong><br>
+</p>
+
 <div>
 <img src="https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=Docker&logoColor=white"/> 
 <img src="https://img.shields.io/badge/Kubernetes-326CE5?style=flat-square&logo=Kubernetes&logoColor=white"/> 
