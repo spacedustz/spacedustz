@@ -21,12 +21,13 @@ I am currently working as a Platform developer and continuously growing.
 
 ---
 
-## <center>⚒ Teck Stacks ⚒</center>
-
+<p align="center" style="font-size:22px">
+    <Strong>⚒️ Tech Stacks ⚒️</Strong><br>
+</p>
 
 <br>
 
-<div style="text-align: center; font-size:50px"> Languages </div>
+### <center>Languages</center>
 
 <div>
 <img src="https://img.shields.io/badge/Kotlin-7F52FF?style=flat-square&logo=Kotlin&logoColor=white"/> 
@@ -44,7 +45,9 @@ I am currently working as a Platform developer and continuously growing.
 
 <br>
 
-### <center>Frameworks</center>
+<p align="center" style="font-size:25px;">
+    <Strong>Frameworks</Strong><br>
+</p>
 
 <div>
 <img src="https://img.shields.io/badge/Spring Boot-6DB33F?style=flat-square&logo=Spring Boot&logoColor=white"/> 
@@ -55,7 +58,9 @@ I am currently working as a Platform developer and continuously growing.
 
 <br><br>
 
-### <center>Databases</center>
+<p align="center" style="font-size:25px;">
+    <Strong>Databases</Strong><br>
+</p>
 
 <div>
 <img src="https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=MySQL&logoColor=white"/> 
@@ -67,7 +72,9 @@ I am currently working as a Platform developer and continuously growing.
 
 <br>
 
-### <center>Ops</center>
+<p align="center" style="font-size:20px">
+    <Strong>Ops</Strong><br>
+</p>
 
 <div>
 <img src="https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=Docker&logoColor=white"/> 
