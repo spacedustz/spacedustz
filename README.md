@@ -1,5 +1,3 @@
----
-
 ## 👋 Hi there
 
 I am currently working as a Platform developer and continuously growing.
@@ -8,8 +6,6 @@ I am currently working as a Platform developer and continuously growing.
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=spacedustz&langs_count=10&layout=compact&theme=radical)](https://github.com/spacedustz/spacedustz)
 ![spacedustz's GitHub stats](https://github-readme-stats.vercel.app/api?username=spacedustz&show_icons=true&theme=radical)
 
-
----
 
 ## 👋 Contact me
 🌱 **My Tech Blog** 🌱<br>
@@ -20,7 +16,7 @@ https://iizz.tistory.com
 🌱 **My Email** 🌱<br>
 cyberspecterr@gmail.com
 
----
+<br>
 
 ## 🌱 Stacks
 
@@ -76,8 +72,6 @@ cyberspecterr@gmail.com
 <img src="https://techstack-generator.vercel.app/kubernetes-icon.svg" alt="icon" width="57" height="57" />
 <img src="https://techstack-generator.vercel.app/aws-icon.svg" alt="icon" width="57" height="57" />
 </div>
-
----
 
 
 <!--
