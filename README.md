@@ -11,11 +11,14 @@ I am currently working as a Platform developer and continuously growing.
 
 ---
 
-**☁ Tech Blog ☁** <br>
+### ☁ Tech Blog ☁ 
+<br>
     <a href="https://iizz.tistory.com/" target="_blank"><img src="https://img.shields.io/badge/Tistory-535D6C?style=flat-square&logo=Tistory&logoColor=white"/></a>
     <br>
     <br>
-**📧 Email 📧**<br>
+
+### 📧 Email 📧
+<br>
 cyberspecterr@gmail.com<br>
 
 </p>
