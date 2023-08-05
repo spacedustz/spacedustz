@@ -9,6 +9,10 @@ I am currently working as a Platform developer and continuously growing.
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=spacedustz&langs_count=10&layout=compact&theme=radical)](https://github.com/spacedustz/spacedustz)
 ![spacedustz's GitHub stats](https://github-readme-stats.vercel.app/api?username=spacedustz&show_icons=true&theme=radical)
 
+<br>
+
+## Contact Me
+
 ### ☁ Tech Blog ☁ 
 <br>
     <a href="https://iizz.tistory.com/" target="_blank"><img src="https://img.shields.io/badge/Tistory-535D6C?style=flat-square&logo=Tistory&logoColor=white"/></a>
@@ -19,9 +23,9 @@ I am currently working as a Platform developer and continuously growing.
 <br>
 cyberspecterr@gmail.com<br>
 
-## ⚒ Tech Stacks ⚒
-
 <br>
+
+## ⚒ Tech Stacks ⚒
 
 ### Languages
 
