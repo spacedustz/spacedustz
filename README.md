@@ -49,11 +49,13 @@ I am currently working as a Platform developer and continuously growing.
 <br>
 
 ### Ops
+<div>
 <img src="https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=Docker&logoColor=white"/> 
 <img src="https://img.shields.io/badge/Kubernetes-326CE5?style=flat-square&logo=Kubernetes&logoColor=white"/> 
 <img src="https://img.shields.io/badge/Amazon AWS-232F3E?style=flat-square&logo=Amazon AWS&logoColor=white"/> 
 <img src="https://img.shields.io/badge/GitHub Actions-2088FF?style=flat-square&logo=GitHub Actions&logoColor=white"/> 
 <img src="https://img.shields.io/badge/Jenkins-D24939?style=flat-square&logo=Jenkins&logoColor=white"/>
+</div>
 
 <div style="display: flex; align-items: flex-start;">
 <img src="https://techstack-generator.vercel.app/docker-icon.svg" alt="icon" width="57" height="57" />
