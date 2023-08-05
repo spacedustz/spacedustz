@@ -11,11 +11,13 @@ I am currently working as a Platform developer and continuously growing.
 ## ⚡ Stacks ⚡
 
 ### Languages
+<div>
 <img src="https://img.shields.io/badge/Kotlin-7F52FF?style=flat-square&logo=Kotlin&logoColor=white"/> 
 <img src="https://img.shields.io/badge/Dart-0175C2?style=flat-square&logo=Dart&logoColor=white"/> 
 <img src="https://img.shields.io/badge/Java-FF7800?style=flat-square&logo=Java&logoColor=white"> 
 <img src="https://img.shields.io/badge/Javascript-F7DF1E?style=flat-square&logo=Javascript&logoColor=white">
 <img src="https://img.shields.io/badge/Typescript-3178C6?style=flat-square&logo=Typescript&logoColor=white">
+</div>
 
 <div style="display: flex; align-items: flex-start;">
 <img src="https://techstack-generator.vercel.app/java-icon.svg" alt="icon" width="57" height="57" />
@@ -26,17 +28,21 @@ I am currently working as a Platform developer and continuously growing.
 <br>
 
 ### FrameWorks
+<div>
 <img src="https://img.shields.io/badge/Spring Boot-6DB33F?style=flat-square&logo=Spring Boot&logoColor=white"/> 
 <img src="https://img.shields.io/badge/Flutter-02569B?style=flat-square&logo=Flutter&logoColor=white"/> 
 <img src="https://img.shields.io/badge/Firebase-FFCA28?style=flat-square&logo=Firebase&logoColor=white"/> 
 <img src="https://img.shields.io/badge/Vue-4FC08D?style=flat-square&logo=Vue&logoColor=white"/>
+</div>
 
 <br><br>
 
 ### Database
+<div>
 <img src="https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=MySQL&logoColor=white"/> 
 <img src="https://img.shields.io/badge/Redis-DC382D?style=flat-square&logo=Redis&logoColor=white"/> 
 <img src="https://img.shields.io/badge/Firebase-FFCA28?style=flat-square&logo=Firebase&logoColor=white"/>
+</div>
 
 <div style="display: flex; align-items: flex-start;"><img src="https://techstack-generator.vercel.app/mysql-icon.svg" alt="icon" width="57" height="57" /></div>
 
