@@ -25,7 +25,7 @@ Email 📧<br>
 
 cyberspecterr@gmail.com<br>
 
-<br><br>
+<br>
 
 ## ⚒ Tech Stacks ⚒
 
@@ -111,7 +111,9 @@ cyberspecterr@gmail.com<br>
 <img src="https://techstack-generator.vercel.app/aws-icon.svg" alt="icon" width="57" height="57" />
 </div>
 
-<br><br>
+<br>
+
+## 🎉 Git Status 🎉
 
 [![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fleemember&count_bg=%23FDC8F8CB&title_bg=%23F54D4D96&icon=smugmug.svg&icon_color=%23E7E7E7&title=hits&edge_flat=false)](https://github.com/spacedustz)
 
