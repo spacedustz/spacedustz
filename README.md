@@ -11,24 +11,18 @@
 
     I am currently working as a Platform developer and continuously growing.
 
-[![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fleemember&count_bg=%23FDC8F8CB&title_bg=%23F54D4D96&icon=smugmug.svg&icon_color=%23E7E7E7&title=hits&edge_flat=false)](https://github.com/spacedustz)
-
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=spacedustz&langs_count=10&layout=compact&theme=radical)](https://github.com/spacedustz/spacedustz)
-![spacedustz's GitHub stats](https://github-readme-stats.vercel.app/api?username=spacedustz&show_icons=true&theme=radical)
-
 <br><br>
 
-## Contact Me
+## ☁ Contact Me ☁
 
-### ☁ Tech Blog ☁ 
-<br>
-    <a href="https://iizz.tistory.com/" target="_blank"><img src="https://img.shields.io/badge/Tistory-535D6C?style=flat-square&logo=Tistory&logoColor=white"/></a>
-    <br>
-    <br>
+Tech Blog 📧<br>
 
-### 📧 Email 📧
+<a href="https://iizz.tistory.com/" target="_blank"><img src="https://img.shields.io/badge/Tistory_Blog-20C997?style=flat-square&logo=Velog&logoColor=white"/></a>
+
 <br>
+
+Email 📧<br>
+
 cyberspecterr@gmail.com<br>
 
 <br><br>
@@ -116,6 +110,14 @@ cyberspecterr@gmail.com<br>
 <img src="https://techstack-generator.vercel.app/kubernetes-icon.svg" alt="icon" width="57" height="57" />
 <img src="https://techstack-generator.vercel.app/aws-icon.svg" alt="icon" width="57" height="57" />
 </div>
+
+<br><br>
+
+[![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fleemember&count_bg=%23FDC8F8CB&title_bg=%23F54D4D96&icon=smugmug.svg&icon_color=%23E7E7E7&title=hits&edge_flat=false)](https://github.com/spacedustz)
+
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=spacedustz&langs_count=10&layout=compact&theme=radical)](https://github.com/spacedustz/spacedustz)
+![spacedustz's GitHub stats](https://github-readme-stats.vercel.app/api?username=spacedustz&show_icons=true&theme=radical)
 
 </div>
 <!--
