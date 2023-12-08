@@ -23,7 +23,7 @@ Tech Blog 📧<br>
 
 Email 📧<br>
 
-cyberspecterr@gmail.com<br>
+spacedustw@gmail.com<br>
 
 <br>
 
