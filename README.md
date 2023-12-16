@@ -8,20 +8,19 @@
 <img src="https://techstack-generator.vercel.app/github-icon.svg" alt="icon" width="65" height="65" />
 </div>
 
-
-    I am currently working as a Platform developer and continuously growing.
+    Working as a Server/Platform developer and continuously growing.
 
 <br><br>
 
 ## ☁ Contact Me ☁
 
-Tech Blog 📧<br>
+<strong>Tech Blog</strong> 📧<br>
 
 <a href="https://iizz.tistory.com/" target="_blank"><img src="https://img.shields.io/badge/Tistory_Blog-20C997?style=flat-square&logo=Velog&logoColor=white"/></a>
 
 <br>
 
-Email 📧<br>
+<strong>Email</strong> 📧<br>
 
 spacedustw@gmail.com<br>
 
@@ -33,6 +32,7 @@ spacedustw@gmail.com<br>
 
 <div>
 <img src="https://img.shields.io/badge/Dart-0175C2?style=flat-square&logo=Dart&logoColor=white"/>
+<img src="https://img.shields.io/badge/Python-3776AB ?style=flat-square&logo=Python&logoColor=white"/>
 </div>
 
 <div>
@@ -46,6 +46,7 @@ spacedustw@gmail.com<br>
 </div>
 
 <div style="display: flex; align-items: flex-start;">
+<img src="https://techstack-generator.vercel.app/python-icon.svg" alt="icon" width="57" height="57" />
 <img src="https://techstack-generator.vercel.app/java-icon.svg" alt="icon" width="57" height="57" />
 <img src="https://techstack-generator.vercel.app/js-icon.svg" alt="icon" width="57" height="57" />
 <img src="https://techstack-generator.vercel.app/ts-icon.svg" alt="icon" width="57" height="57" />
@@ -63,8 +64,21 @@ spacedustw@gmail.com<br>
 
 <div>
 <img src="https://img.shields.io/badge/Spring Boot-6DB33F?style=flat-square&logo=Spring Boot&logoColor=white"/> 
-<img src="https://img.shields.io/badge/Flutter-02569B?style=flat-square&logo=Flutter&logoColor=white"/> 
-<img src="https://img.shields.io/badge/Firebase-FFCA28?style=flat-square&logo=Firebase&logoColor=white"/>
+<img src="https://img.shields.io/badge/Flutter-02569B?style=flat-square&logo=Flutter&logoColor=white"/>
+<img src="https://img.shields.io/badge/RabbitMQ-FF6600?style=flat-square&logo=RabbitMQ&logoColor=white"/>
+<img src="https://img.shields.io/badge/FFmpeg-007808?style=flat-square&logo=FFmpeg&logoColor=white"/>
+
+</div>
+
+<div>
+<img src="https://img.shields.io/badge/Tensor Flow-FF6F00?style=flat-square&logo=TensorFlow&logoColor=white"/>
+<img src="https://img.shields.io/badge/Pytorch-EE4C2C?style=flat-square&logo=Pytorch&logoColor=white"/> 
+<img src="https://img.shields.io/badge/OpenCV-5C3EE8?style=flat-square&logo=OpenCV&logoColor=white"/>
+<img src="https://img.shields.io/badge/Keras-D00000?style=flat-square&logo=Keras&logoColor=white"/>
+
+
+
+
 </div>
 
 <div style="display: flex; align-items: flex-start;">
