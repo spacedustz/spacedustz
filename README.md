@@ -12,7 +12,11 @@
 
 <br><br>
 
-> **<a href="http://43.202.203.180:3000/intro" target="_blank">이력서 & Resume</a>**
+> **이력서 / Resume**
+
+<a href="http://43.202.203.180:3000/intro" target="_blank">이력서 보기</a>
+
+<br><br>
 
 ## ☁ Contact Me ☁
 
