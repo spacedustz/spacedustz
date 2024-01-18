@@ -12,6 +12,8 @@
 
 <br><br>
 
+> **<a href="http://43.202.203.180:3000/intro" target="_blank">이력서 & Resume</a>**
+
 ## ☁ Contact Me ☁
 
 <strong>Tech Blog</strong> 📧<br>
