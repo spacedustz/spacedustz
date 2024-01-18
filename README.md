@@ -12,9 +12,9 @@
 
 <br><br>
 
-> **이력서 / Resume**
+> **Resume**
 
-- http://43.202.203.180:3000/intro
+http://43.202.203.180:3000/intro
 
 <br><br>
 
