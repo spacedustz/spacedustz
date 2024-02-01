@@ -6,9 +6,9 @@
 
 <div style="display: flex; align-items: flex-start;">
 <img src="https://techstack-generator.vercel.app/github-icon.svg" alt="icon" width="65" height="65" />
-</div>
+</div style="text-align: center;">
 
-    Server & Platform Developer 
+    Working as a Server/Platform Developer and continuously growing
 
 
 <br><br>
