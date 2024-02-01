@@ -8,13 +8,8 @@
 <img src="https://techstack-generator.vercel.app/github-icon.svg" alt="icon" width="65" height="65" />
 </div>
 
-    Working as a Server/Platform developer and continuously growing.
+    Server & Platform Developer 
 
-<br><br>
-
-> **Resume**
-
-http://43.202.203.180:3000/intro
 
 <br><br>
 
