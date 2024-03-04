@@ -15,12 +15,6 @@
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=spacedustz&langs_count=10&layout=compact&theme=radical)](https://github.com/spacedustz/spacedustz)
 ![spacedustz's GitHub stats](https://github-readme-stats.vercel.app/api?username=spacedustz&show_icons=true&theme=radical)
 
-<br>
-
-<picture>
-  <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/spacedustz/spacedustz/output/github-contribution-grid-snake.svg">
-</picture>
-
 ---
 
 ## ☁ Contact Me ☁
