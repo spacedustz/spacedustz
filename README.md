@@ -15,7 +15,7 @@
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=spacedustz&langs_count=10&layout=compact&theme=radical)](https://github.com/spacedustz/spacedustz)
 ![spacedustz's GitHub stats](https://github-readme-stats.vercel.app/api?username=spacedustz&show_icons=true&theme=radical)
 
----
+<br>
 
 ## ☁ Contact Me ☁
 
@@ -25,11 +25,9 @@
 
 <strong>📧 Email</strong> : spacedustw@gmail.com<br>
 
----
+<br>
 
 ## ⚒ Tech Stacks ⚒
-
-<div>
 
 ### Languages
 
@@ -120,9 +118,6 @@
 <img src="https://techstack-generator.vercel.app/aws-icon.svg" alt="icon" width="57" height="57" />
 </div>
 
----
-
-</div>
 <!--
 **spacedustz/spacedustz** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
