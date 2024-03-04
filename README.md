@@ -1,42 +1,51 @@
 <div align="center">
 
-![transparent](https://capsule-render.vercel.app/api?type=transparent&fontColor=a3d278&text=Kunwoo%20Shin's%20GitHub%20&height=150&fontSize=60&desc=Welcome!&descAlignY=75&descAlign=60)
+[//]: # (![transparent]&#40;https://capsule-render.vercel.app/api?type=transparent&fontColor=a3d278&text=Developer%20Kunwoo%20Shin%20&height=150&fontSize=60&desc=Welcome!&descAlignY=75&descAlign=60&#41;)
 
-## 👋 Hi there
+## 👋 Hello World
 
-<div style="display: flex; align-items: flex-start;">
-<img src="https://techstack-generator.vercel.app/github-icon.svg" alt="icon" width="65" height="65" />
-</div style="text-align: center;">
+    I'm working as a Server Developer and continuously growing
 
-    Working as a Server/Platform Developer and continuously growing
+<br>
 
 
-<br><br>
+[![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fleemember&count_bg=%23FDC8F8CB&title_bg=%23F54D4D96&icon=smugmug.svg&icon_color=%23E7E7E7&title=hits&edge_flat=false)](https://github.com/spacedustz)
+
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=spacedustz&langs_count=10&layout=compact&theme=radical)](https://github.com/spacedustz/spacedustz)
+![spacedustz's GitHub stats](https://github-readme-stats.vercel.app/api?username=spacedustz&show_icons=true&theme=radical)
+
+<br>
+
+<picture>
+  <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/spacedustz/spacedustz/output/github-contribution-grid-snake.svg">
+</picture>
+
+---
 
 ## ☁ Contact Me ☁
 
-<strong>Tech Blog</strong> 📧<br>
-
-<a href="https://iizz.tistory.com/" target="_blank"><img src="https://img.shields.io/badge/Tistory_Blog-20C997?style=flat-square&logo=Velog&logoColor=white"/></a>
+<strong>📧 Tech Blog</strong> : <a href="https://iizz.tistory.com/" target="_blank" style="text-decoration:none;">https://iizz.tistory.com</a>
 
 <br>
 
-<strong>Email</strong> 📧<br>
+<strong>📧 Email</strong> : spacedustw@gmail.com<br>
 
-spacedustw@gmail.com<br>
-
-<br>
+---
 
 ## ⚒ Tech Stacks ⚒
 
+<div>
+
 ### Languages
 
-<!-- <img src="https://img.shields.io/badge/Dart-0175C2?style=flat-square&logo=Dart&logoColor=white"/>
-<img src="https://img.shields.io/badge/Python-3776AB ?style=flat-square&logo=Python&logoColor=white"/> -->
+[//]: # (<img src="https://img.shields.io/badge/Dart-0175C2?style=flat-square&logo=Dart&logoColor=white"/>)
+
 
 <div>
 <img src="https://img.shields.io/badge/Java-FF7800?style=flat-square&logo=Java&logoColor=white"> 
 <img src="https://img.shields.io/badge/Kotlin-7F52FF?style=flat-square&logo=Kotlin&logoColor=white"/>
+<img src="https://img.shields.io/badge/Python-3776AB ?style=flat-square&logo=Python&logoColor=white"/>
 </div>
 
 <div>
@@ -117,15 +126,7 @@ spacedustw@gmail.com<br>
 <img src="https://techstack-generator.vercel.app/aws-icon.svg" alt="icon" width="57" height="57" />
 </div>
 
-<br>
-
-## 🎉 Git Status 🎉
-
-[![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fleemember&count_bg=%23FDC8F8CB&title_bg=%23F54D4D96&icon=smugmug.svg&icon_color=%23E7E7E7&title=hits&edge_flat=false)](https://github.com/spacedustz)
-
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=spacedustz&langs_count=10&layout=compact&theme=radical)](https://github.com/spacedustz/spacedustz)
-![spacedustz's GitHub stats](https://github-readme-stats.vercel.app/api?username=spacedustz&show_icons=true&theme=radical)
+---
 
 </div>
 <!--
