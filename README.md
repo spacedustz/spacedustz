@@ -4,7 +4,7 @@
 
 ## 👋 Hello World
 
-    I'm working as a Server Developer and continuously growing
+    I'm a Software Engineer who is genuinely passionate about development and finds happiness in learning.
 
 <br>
 
