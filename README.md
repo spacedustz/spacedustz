@@ -23,7 +23,7 @@
 
 <br>
 
-<strong>📧 Email</strong> : tensorflow555@gmail.com<br>
+<strong>📧 Email</strong> : recyclefunction@gmail.com<br>
 
 <br>
 
