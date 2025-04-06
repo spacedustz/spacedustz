@@ -4,7 +4,7 @@
 
 ## 👋 Hello World
 
-    I'm a Software Engineer who is genuinely passionate about development and finds happiness in learning.
+    I'm a Software Engineer with a genuine passion for development who finds real joy in learning..
 
 <br>
 
@@ -23,7 +23,7 @@
 
 <br>
 
-<strong>📧 Email</strong> : recyclefunction@gmail.com<br>
+<strong>📧 Email</strong> : floralexium@gmail.com<br>
 
 <br>
 
