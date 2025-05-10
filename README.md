@@ -20,7 +20,7 @@
 
 <br>
 
-<strong>📧 Email</strong> : floralexium@gmail.com<br>
+<strong>📧 Email</strong> : wavefunctionc@gmail.com<br>
 
 <br>
 
